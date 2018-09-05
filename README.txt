@@ -5,7 +5,6 @@ Code files included:
 
 Other files included:
 	1. Four .pkl files for each of the models trained
-	2. Cleaned data set csv
 
 Requirements:
 	1. Python 3.x
