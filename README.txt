@@ -22,10 +22,3 @@ How to run the GUI:
 	2. Run the GUI.py
 	3. Select the attributes as required
 	4. Click the 'Click Here!' button to see the predictions
-
-Work Distribution:
-	1. Data Preprocessing: Anindo Saha
-	2. Data Modeling: Eshaan Shah, Anindo Saha, Rohit Mudaliar
-	3. Data Population: Eshaan Shah
-	4. Data Analysis: Eshaan Shah, Anindo Saha, Rohit Mudaliar
-	5. Data Visualization: Rohit Mudaliar
